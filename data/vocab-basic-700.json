@@ -1,0 +1,5538 @@
+[
+  {
+    "id": "basic_700_0001",
+    "word": "a (an)",
+    "meaningCn": "一个、某个",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 1
+  },
+  {
+    "id": "basic_700_0002",
+    "word": "a.m. / A.M.",
+    "meaningCn": "午前、上午",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 2
+  },
+  {
+    "id": "basic_700_0003",
+    "word": "aboard",
+    "meaningCn": "上（交通工具）",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 3
+  },
+  {
+    "id": "basic_700_0004",
+    "word": "abroad",
+    "meaningCn": "在国外",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 4
+  },
+  {
+    "id": "basic_700_0005",
+    "word": "afternoon",
+    "meaningCn": "下午",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 5
+  },
+  {
+    "id": "basic_700_0006",
+    "word": "ago",
+    "meaningCn": "以前",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 6
+  },
+  {
+    "id": "basic_700_0007",
+    "word": "alcohol",
+    "meaningCn": "酒精、酒",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 7
+  },
+  {
+    "id": "basic_700_0008",
+    "word": "alley",
+    "meaningCn": "小巷、胡同",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 8
+  },
+  {
+    "id": "basic_700_0009",
+    "word": "among",
+    "meaningCn": "在多者之间",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 9
+  },
+  {
+    "id": "basic_700_0010",
+    "word": "ant",
+    "meaningCn": "蚂蚁",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 10
+  },
+  {
+    "id": "basic_700_0011",
+    "word": "apartment",
+    "meaningCn": "公寓",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 11
+  },
+  {
+    "id": "basic_700_0012",
+    "word": "armchair",
+    "meaningCn": "扶手椅",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 12
+  },
+  {
+    "id": "basic_700_0013",
+    "word": "army",
+    "meaningCn": "军队",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 13
+  },
+  {
+    "id": "basic_700_0014",
+    "word": "arrow",
+    "meaningCn": "箭、箭头",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 14
+  },
+  {
+    "id": "basic_700_0015",
+    "word": "ash",
+    "meaningCn": "灰烬",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 15
+  },
+  {
+    "id": "basic_700_0016",
+    "word": "aspect",
+    "meaningCn": "方面",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 16
+  },
+  {
+    "id": "basic_700_0017",
+    "word": "astronaut",
+    "meaningCn": "宇航员",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 17
+  },
+  {
+    "id": "basic_700_0018",
+    "word": "aunt",
+    "meaningCn": "姑姑",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 18
+  },
+  {
+    "id": "basic_700_0019",
+    "word": "avenue",
+    "meaningCn": "大道",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 19
+  },
+  {
+    "id": "basic_700_0020",
+    "word": "awesome",
+    "meaningCn": "令人惊叹的",
+    "book": "basic_700",
+    "letter": "A",
+    "orderIndex": 20
+  },
+  {
+    "id": "basic_700_0021",
+    "word": "B.C. / A.D.",
+    "meaningCn": "公元前/公元后",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 21
+  },
+  {
+    "id": "basic_700_0022",
+    "word": "bacon",
+    "meaningCn": "培根",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 22
+  },
+  {
+    "id": "basic_700_0023",
+    "word": "baggage",
+    "meaningCn": "行李",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 23
+  },
+  {
+    "id": "basic_700_0024",
+    "word": "bake",
+    "meaningCn": "烘焙",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 24
+  },
+  {
+    "id": "basic_700_0025",
+    "word": "ball",
+    "meaningCn": "球、舞会",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 25
+  },
+  {
+    "id": "basic_700_0026",
+    "word": "ballet",
+    "meaningCn": "芭蕾舞",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 26
+  },
+  {
+    "id": "basic_700_0027",
+    "word": "balloon",
+    "meaningCn": "气球",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 27
+  },
+  {
+    "id": "basic_700_0028",
+    "word": "bamboo",
+    "meaningCn": "竹子",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 28
+  },
+  {
+    "id": "basic_700_0029",
+    "word": "ban",
+    "meaningCn": "禁止、禁令",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 29
+  },
+  {
+    "id": "basic_700_0030",
+    "word": "banana",
+    "meaningCn": "香蕉",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 30
+  },
+  {
+    "id": "basic_700_0031",
+    "word": "bar",
+    "meaningCn": "一条、一块、酒吧",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 31
+  },
+  {
+    "id": "basic_700_0032",
+    "word": "barbecue",
+    "meaningCn": "烧烤",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 32
+  },
+  {
+    "id": "basic_700_0033",
+    "word": "barber",
+    "meaningCn": "理发师",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 33
+  },
+  {
+    "id": "basic_700_0034",
+    "word": "basin",
+    "meaningCn": "水盆、盆地",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 34
+  },
+  {
+    "id": "basic_700_0035",
+    "word": "bat",
+    "meaningCn": "球棒、蝙蝠",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 35
+  },
+  {
+    "id": "basic_700_0036",
+    "word": "battery",
+    "meaningCn": "电池",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 36
+  },
+  {
+    "id": "basic_700_0037",
+    "word": "bay",
+    "meaningCn": "海湾",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 37
+  },
+  {
+    "id": "basic_700_0038",
+    "word": "be",
+    "meaningCn": "是",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 38
+  },
+  {
+    "id": "basic_700_0039",
+    "word": "bean",
+    "meaningCn": "豆",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 39
+  },
+  {
+    "id": "basic_700_0040",
+    "word": "beard",
+    "meaningCn": "胡须",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 40
+  },
+  {
+    "id": "basic_700_0041",
+    "word": "beast",
+    "meaningCn": "野兽",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 41
+  },
+  {
+    "id": "basic_700_0042",
+    "word": "bee",
+    "meaningCn": "蜜蜂",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 42
+  },
+  {
+    "id": "basic_700_0043",
+    "word": "beef",
+    "meaningCn": "牛肉",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 43
+  },
+  {
+    "id": "basic_700_0044",
+    "word": "beer",
+    "meaningCn": "啤酒",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 44
+  },
+  {
+    "id": "basic_700_0045",
+    "word": "belly",
+    "meaningCn": "肚子",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 45
+  },
+  {
+    "id": "basic_700_0046",
+    "word": "belt",
+    "meaningCn": "腰带",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 46
+  },
+  {
+    "id": "basic_700_0047",
+    "word": "bench",
+    "meaningCn": "长凳",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 47
+  },
+  {
+    "id": "basic_700_0048",
+    "word": "billion",
+    "meaningCn": "十亿",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 48
+  },
+  {
+    "id": "basic_700_0049",
+    "word": "bit",
+    "meaningCn": "一点、少量的",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 49
+  },
+  {
+    "id": "basic_700_0050",
+    "word": "black",
+    "meaningCn": "黑色的",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 50
+  },
+  {
+    "id": "basic_700_0051",
+    "word": "blackboard",
+    "meaningCn": "黑板",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 51
+  },
+  {
+    "id": "basic_700_0052",
+    "word": "blog",
+    "meaningCn": "博客",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 52
+  },
+  {
+    "id": "basic_700_0053",
+    "word": "bookmark",
+    "meaningCn": "书签",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 53
+  },
+  {
+    "id": "basic_700_0054",
+    "word": "boot",
+    "meaningCn": "靴子",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 54
+  },
+  {
+    "id": "basic_700_0055",
+    "word": "bowling",
+    "meaningCn": "保龄球",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 55
+  },
+  {
+    "id": "basic_700_0056",
+    "word": "boxing",
+    "meaningCn": "拳击",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 56
+  },
+  {
+    "id": "basic_700_0057",
+    "word": "boy",
+    "meaningCn": "男孩",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 57
+  },
+  {
+    "id": "basic_700_0058",
+    "word": "branch",
+    "meaningCn": "树枝、分支",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 58
+  },
+  {
+    "id": "basic_700_0059",
+    "word": "bread",
+    "meaningCn": "面包",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 59
+  },
+  {
+    "id": "basic_700_0060",
+    "word": "breakfast",
+    "meaningCn": "早餐",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 60
+  },
+  {
+    "id": "basic_700_0061",
+    "word": "breast",
+    "meaningCn": "胸脯",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 61
+  },
+  {
+    "id": "basic_700_0062",
+    "word": "brick",
+    "meaningCn": "砖块",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 62
+  },
+  {
+    "id": "basic_700_0063",
+    "word": "bride",
+    "meaningCn": "新娘",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 63
+  },
+  {
+    "id": "basic_700_0064",
+    "word": "brown",
+    "meaningCn": "棕色的",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 64
+  },
+  {
+    "id": "basic_700_0065",
+    "word": "brunch",
+    "meaningCn": "早午饭",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 65
+  },
+  {
+    "id": "basic_700_0066",
+    "word": "bucket",
+    "meaningCn": "桶",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 66
+  },
+  {
+    "id": "basic_700_0067",
+    "word": "butter",
+    "meaningCn": "黄油",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 67
+  },
+  {
+    "id": "basic_700_0068",
+    "word": "butterfly",
+    "meaningCn": "蝴蝶",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 68
+  },
+  {
+    "id": "basic_700_0069",
+    "word": "button",
+    "meaningCn": "纽扣、按钮",
+    "book": "basic_700",
+    "letter": "B",
+    "orderIndex": 69
+  },
+  {
+    "id": "basic_700_0070",
+    "word": "cab",
+    "meaningCn": "出租车",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 70
+  },
+  {
+    "id": "basic_700_0071",
+    "word": "cabbage",
+    "meaningCn": "卷心菜",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 71
+  },
+  {
+    "id": "basic_700_0072",
+    "word": "café",
+    "meaningCn": "咖啡馆",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 72
+  },
+  {
+    "id": "basic_700_0073",
+    "word": "calendar",
+    "meaningCn": "日历",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 73
+  },
+  {
+    "id": "basic_700_0074",
+    "word": "calorie",
+    "meaningCn": "卡路里、热量",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 74
+  },
+  {
+    "id": "basic_700_0075",
+    "word": "camel",
+    "meaningCn": "骆驼",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 75
+  },
+  {
+    "id": "basic_700_0076",
+    "word": "canal",
+    "meaningCn": "运河",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 76
+  },
+  {
+    "id": "basic_700_0077",
+    "word": "candle",
+    "meaningCn": "蜡烛",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 77
+  },
+  {
+    "id": "basic_700_0078",
+    "word": "candy",
+    "meaningCn": "糖果",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 78
+  },
+  {
+    "id": "basic_700_0079",
+    "word": "cap",
+    "meaningCn": "帽子、瓶盖、笔帽",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 79
+  },
+  {
+    "id": "basic_700_0080",
+    "word": "capital",
+    "meaningCn": "首都、省会、大写、资本",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 80
+  },
+  {
+    "id": "basic_700_0081",
+    "word": "capsule",
+    "meaningCn": "胶囊",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 81
+  },
+  {
+    "id": "basic_700_0082",
+    "word": "captain",
+    "meaningCn": "上校、船长、队长",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 82
+  },
+  {
+    "id": "basic_700_0083",
+    "word": "carbon",
+    "meaningCn": "碳",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 83
+  },
+  {
+    "id": "basic_700_0084",
+    "word": "card",
+    "meaningCn": "卡片、名片、纸牌",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 84
+  },
+  {
+    "id": "basic_700_0085",
+    "word": "carrot",
+    "meaningCn": "胡萝卜",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 85
+  },
+  {
+    "id": "basic_700_0086",
+    "word": "cartoon",
+    "meaningCn": "动画片",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 86
+  },
+  {
+    "id": "basic_700_0087",
+    "word": "castle",
+    "meaningCn": "城堡",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 87
+  },
+  {
+    "id": "basic_700_0088",
+    "word": "cat",
+    "meaningCn": "猫(cid:0)",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 88
+  },
+  {
+    "id": "basic_700_0089",
+    "word": "cattle",
+    "meaningCn": "牛",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 89
+  },
+  {
+    "id": "basic_700_0090",
+    "word": "cell",
+    "meaningCn": "细胞",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 90
+  },
+  {
+    "id": "basic_700_0091",
+    "word": "century",
+    "meaningCn": "世纪",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 91
+  },
+  {
+    "id": "basic_700_0092",
+    "word": "chairman",
+    "meaningCn": "主席",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 92
+  },
+  {
+    "id": "basic_700_0093",
+    "word": "chalk",
+    "meaningCn": "粉笔",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 93
+  },
+  {
+    "id": "basic_700_0094",
+    "word": "chapter",
+    "meaningCn": "章",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 94
+  },
+  {
+    "id": "basic_700_0095",
+    "word": "chart",
+    "meaningCn": "图表、航海图",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 95
+  },
+  {
+    "id": "basic_700_0096",
+    "word": "cheap",
+    "meaningCn": "便宜的",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 96
+  },
+  {
+    "id": "basic_700_0097",
+    "word": "cheese",
+    "meaningCn": "奶酪",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 97
+  },
+  {
+    "id": "basic_700_0098",
+    "word": "chef",
+    "meaningCn": "主厨",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 98
+  },
+  {
+    "id": "basic_700_0099",
+    "word": "chess",
+    "meaningCn": "棋",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 99
+  },
+  {
+    "id": "basic_700_0100",
+    "word": "chew",
+    "meaningCn": "咀嚼",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 100
+  },
+  {
+    "id": "basic_700_0101",
+    "word": "chicken",
+    "meaningCn": "鸡肉",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 101
+  },
+  {
+    "id": "basic_700_0102",
+    "word": "chief",
+    "meaningCn": "主要的、首要的",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 102
+  },
+  {
+    "id": "basic_700_0103",
+    "word": "china",
+    "meaningCn": "瓷器",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 103
+  },
+  {
+    "id": "basic_700_0104",
+    "word": "chips",
+    "meaningCn": "薯条、薯片",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 104
+  },
+  {
+    "id": "basic_700_0105",
+    "word": "chocolate",
+    "meaningCn": "巧克力",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 105
+  },
+  {
+    "id": "basic_700_0106",
+    "word": "choke",
+    "meaningCn": "窒息、哽咽",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 106
+  },
+  {
+    "id": "basic_700_0107",
+    "word": "chopsticks",
+    "meaningCn": "筷子",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 107
+  },
+  {
+    "id": "basic_700_0108",
+    "word": "chorus",
+    "meaningCn": "合唱",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 108
+  },
+  {
+    "id": "basic_700_0109",
+    "word": "Christmas",
+    "meaningCn": "圣诞节",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 109
+  },
+  {
+    "id": "basic_700_0110",
+    "word": "cinema",
+    "meaningCn": "电影院",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 110
+  },
+  {
+    "id": "basic_700_0111",
+    "word": "circus",
+    "meaningCn": "马戏团",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 111
+  },
+  {
+    "id": "basic_700_0112",
+    "word": "civil",
+    "meaningCn": "平民、民用的、国内的",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 112
+  },
+  {
+    "id": "basic_700_0113",
+    "word": "civilization",
+    "meaningCn": "文明",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 113
+  },
+  {
+    "id": "basic_700_0114",
+    "word": "classic",
+    "meaningCn": "经典的",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 114
+  },
+  {
+    "id": "basic_700_0115",
+    "word": "clerk",
+    "meaningCn": "店员、职员",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 115
+  },
+  {
+    "id": "basic_700_0116",
+    "word": "clock",
+    "meaningCn": "钟",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 116
+  },
+  {
+    "id": "basic_700_0117",
+    "word": "clone",
+    "meaningCn": "克隆",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 117
+  },
+  {
+    "id": "basic_700_0118",
+    "word": "coal",
+    "meaningCn": "煤",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 118
+  },
+  {
+    "id": "basic_700_0119",
+    "word": "coast",
+    "meaningCn": "海岸",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 119
+  },
+  {
+    "id": "basic_700_0120",
+    "word": "cock",
+    "meaningCn": "公鸡",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 120
+  },
+  {
+    "id": "basic_700_0121",
+    "word": "cocoa",
+    "meaningCn": "可可粉",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 121
+  },
+  {
+    "id": "basic_700_0122",
+    "word": "coin",
+    "meaningCn": "硬币",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 122
+  },
+  {
+    "id": "basic_700_0123",
+    "word": "coke",
+    "meaningCn": "可口可乐",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 123
+  },
+  {
+    "id": "basic_700_0124",
+    "word": "collar",
+    "meaningCn": "衣领",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 124
+  },
+  {
+    "id": "basic_700_0125",
+    "word": "comb",
+    "meaningCn": "梳子、梳",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 125
+  },
+  {
+    "id": "basic_700_0126",
+    "word": "comedy",
+    "meaningCn": "喜剧",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 126
+  },
+  {
+    "id": "basic_700_0127",
+    "word": "comic",
+    "meaningCn": "漫画",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 127
+  },
+  {
+    "id": "basic_700_0128",
+    "word": "comma",
+    "meaningCn": "逗号",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 128
+  },
+  {
+    "id": "basic_700_0129",
+    "word": "committee",
+    "meaningCn": "委员会",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 129
+  },
+  {
+    "id": "basic_700_0130",
+    "word": "comrade",
+    "meaningCn": "同志",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 130
+  },
+  {
+    "id": "basic_700_0131",
+    "word": "Confucius",
+    "meaningCn": "孔子",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 131
+  },
+  {
+    "id": "basic_700_0132",
+    "word": "consist",
+    "meaningCn": "包含、由…组成",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 132
+  },
+  {
+    "id": "basic_700_0133",
+    "word": "coral",
+    "meaningCn": "珊瑚",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 133
+  },
+  {
+    "id": "basic_700_0134",
+    "word": "corn",
+    "meaningCn": "玉米",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 134
+  },
+  {
+    "id": "basic_700_0135",
+    "word": "corporation",
+    "meaningCn": "企业、公司",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 135
+  },
+  {
+    "id": "basic_700_0136",
+    "word": "cosy",
+    "meaningCn": "温馨的、舒适的",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 136
+  },
+  {
+    "id": "basic_700_0137",
+    "word": "cotton",
+    "meaningCn": "棉花",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 137
+  },
+  {
+    "id": "basic_700_0138",
+    "word": "cough",
+    "meaningCn": "咳嗽",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 138
+  },
+  {
+    "id": "basic_700_0139",
+    "word": "countryside",
+    "meaningCn": "乡村",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 139
+  },
+  {
+    "id": "basic_700_0140",
+    "word": "county",
+    "meaningCn": "县",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 140
+  },
+  {
+    "id": "basic_700_0141",
+    "word": "courtyard",
+    "meaningCn": "院子",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 141
+  },
+  {
+    "id": "basic_700_0142",
+    "word": "cousin",
+    "meaningCn": "堂表亲",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 142
+  },
+  {
+    "id": "basic_700_0143",
+    "word": "cow",
+    "meaningCn": "母牛",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 143
+  },
+  {
+    "id": "basic_700_0144",
+    "word": "cowboy",
+    "meaningCn": "牛仔",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 144
+  },
+  {
+    "id": "basic_700_0145",
+    "word": "co-worker",
+    "meaningCn": "合作者、同事",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 145
+  },
+  {
+    "id": "basic_700_0146",
+    "word": "cream",
+    "meaningCn": "奶油",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 146
+  },
+  {
+    "id": "basic_700_0147",
+    "word": "crew",
+    "meaningCn": "船员、全体成员",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 147
+  },
+  {
+    "id": "basic_700_0148",
+    "word": "cube",
+    "meaningCn": "立方体",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 148
+  },
+  {
+    "id": "basic_700_0149",
+    "word": "cupboard",
+    "meaningCn": "橱柜",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 149
+  },
+  {
+    "id": "basic_700_0150",
+    "word": "currency",
+    "meaningCn": "货币",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 150
+  },
+  {
+    "id": "basic_700_0151",
+    "word": "custom",
+    "meaningCn": "习俗、定制的",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 151
+  },
+  {
+    "id": "basic_700_0152",
+    "word": "cute",
+    "meaningCn": "可爱的、机灵的",
+    "book": "basic_700",
+    "letter": "C",
+    "orderIndex": 152
+  },
+  {
+    "id": "basic_700_0153",
+    "word": "dad",
+    "meaningCn": "爸爸",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 153
+  },
+  {
+    "id": "basic_700_0154",
+    "word": "dam",
+    "meaningCn": "水坝",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 154
+  },
+  {
+    "id": "basic_700_0155",
+    "word": "dawn",
+    "meaningCn": "黎明",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 155
+  },
+  {
+    "id": "basic_700_0156",
+    "word": "deadline",
+    "meaningCn": "截止日期",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 156
+  },
+  {
+    "id": "basic_700_0157",
+    "word": "dear",
+    "meaningCn": "亲爱的",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 157
+  },
+  {
+    "id": "basic_700_0158",
+    "word": "decade",
+    "meaningCn": "十年",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 158
+  },
+  {
+    "id": "basic_700_0159",
+    "word": "deer",
+    "meaningCn": "鹿",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 159
+  },
+  {
+    "id": "basic_700_0160",
+    "word": "delete",
+    "meaningCn": "删除",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 160
+  },
+  {
+    "id": "basic_700_0161",
+    "word": "dentist",
+    "meaningCn": "牙科医生(cid:0)",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 161
+  },
+  {
+    "id": "basic_700_0162",
+    "word": "dessert",
+    "meaningCn": "甜品",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 162
+  },
+  {
+    "id": "basic_700_0163",
+    "word": "diamond",
+    "meaningCn": "钻石",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 163
+  },
+  {
+    "id": "basic_700_0164",
+    "word": "dictionary",
+    "meaningCn": "字典",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 164
+  },
+  {
+    "id": "basic_700_0165",
+    "word": "diet",
+    "meaningCn": "饮食",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 165
+  },
+  {
+    "id": "basic_700_0166",
+    "word": "digital",
+    "meaningCn": "数字的、数码的",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 166
+  },
+  {
+    "id": "basic_700_0167",
+    "word": "disk",
+    "meaningCn": "磁盘",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 167
+  },
+  {
+    "id": "basic_700_0168",
+    "word": "district",
+    "meaningCn": "区、区域",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 168
+  },
+  {
+    "id": "basic_700_0169",
+    "word": "document",
+    "meaningCn": "文件",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 169
+  },
+  {
+    "id": "basic_700_0170",
+    "word": "dog",
+    "meaningCn": "狗",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 170
+  },
+  {
+    "id": "basic_700_0171",
+    "word": "doll",
+    "meaningCn": "玩偶",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 171
+  },
+  {
+    "id": "basic_700_0172",
+    "word": "dolphin",
+    "meaningCn": "海豚",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 172
+  },
+  {
+    "id": "basic_700_0173",
+    "word": "dot",
+    "meaningCn": "点、圆点",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 173
+  },
+  {
+    "id": "basic_700_0174",
+    "word": "download",
+    "meaningCn": "下载",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 174
+  },
+  {
+    "id": "basic_700_0175",
+    "word": "downtown",
+    "meaningCn": "商业区、中心区",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 175
+  },
+  {
+    "id": "basic_700_0176",
+    "word": "dozen",
+    "meaningCn": "十二个",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 176
+  },
+  {
+    "id": "basic_700_0177",
+    "word": "draft",
+    "meaningCn": "草稿、草案",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 177
+  },
+  {
+    "id": "basic_700_0178",
+    "word": "dragon",
+    "meaningCn": "龙",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 178
+  },
+  {
+    "id": "basic_700_0179",
+    "word": "drought",
+    "meaningCn": "干旱",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 179
+  },
+  {
+    "id": "basic_700_0180",
+    "word": "drown",
+    "meaningCn": "溺水、淹没",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 180
+  },
+  {
+    "id": "basic_700_0181",
+    "word": "duck",
+    "meaningCn": "鸭子",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 181
+  },
+  {
+    "id": "basic_700_0182",
+    "word": "dumpling",
+    "meaningCn": "饺子",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 182
+  },
+  {
+    "id": "basic_700_0183",
+    "word": "dusk",
+    "meaningCn": "黄昏",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 183
+  },
+  {
+    "id": "basic_700_0184",
+    "word": "dustbin",
+    "meaningCn": "垃圾箱",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 184
+  },
+  {
+    "id": "basic_700_0185",
+    "word": "dynasty",
+    "meaningCn": "王朝、朝代",
+    "book": "basic_700",
+    "letter": "D",
+    "orderIndex": 185
+  },
+  {
+    "id": "basic_700_0186",
+    "word": "eagle",
+    "meaningCn": "鹰",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 186
+  },
+  {
+    "id": "basic_700_0187",
+    "word": "earth",
+    "meaningCn": "地球、泥土、大地",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 187
+  },
+  {
+    "id": "basic_700_0188",
+    "word": "earthquake",
+    "meaningCn": "地震",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 188
+  },
+  {
+    "id": "basic_700_0189",
+    "word": "east",
+    "meaningCn": "东方",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 189
+  },
+  {
+    "id": "basic_700_0190",
+    "word": "easy-going",
+    "meaningCn": "随和的",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 190
+  },
+  {
+    "id": "basic_700_0191",
+    "word": "ecology",
+    "meaningCn": "生态学",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 191
+  },
+  {
+    "id": "basic_700_0192",
+    "word": "edition",
+    "meaningCn": "版本",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 192
+  },
+  {
+    "id": "basic_700_0193",
+    "word": "egg",
+    "meaningCn": "蛋",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 193
+  },
+  {
+    "id": "basic_700_0194",
+    "word": "eggplant",
+    "meaningCn": "茄子",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 194
+  },
+  {
+    "id": "basic_700_0195",
+    "word": "eight",
+    "meaningCn": "八",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 195
+  },
+  {
+    "id": "basic_700_0196",
+    "word": "eighteen",
+    "meaningCn": "十八",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 196
+  },
+  {
+    "id": "basic_700_0197",
+    "word": "eighty",
+    "meaningCn": "八十",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 197
+  },
+  {
+    "id": "basic_700_0198",
+    "word": "electricity",
+    "meaningCn": "电",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 198
+  },
+  {
+    "id": "basic_700_0199",
+    "word": "elephant",
+    "meaningCn": "大象",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 199
+  },
+  {
+    "id": "basic_700_0200",
+    "word": "eleven",
+    "meaningCn": "十一",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 200
+  },
+  {
+    "id": "basic_700_0201",
+    "word": "equator",
+    "meaningCn": "赤道",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 201
+  },
+  {
+    "id": "basic_700_0202",
+    "word": "era",
+    "meaningCn": "时代",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 202
+  },
+  {
+    "id": "basic_700_0203",
+    "word": "eve",
+    "meaningCn": "前夜、前夕",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 203
+  },
+  {
+    "id": "basic_700_0204",
+    "word": "evening",
+    "meaningCn": "晚上",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 204
+  },
+  {
+    "id": "basic_700_0205",
+    "word": "expert",
+    "meaningCn": "专家",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 205
+  },
+  {
+    "id": "basic_700_0206",
+    "word": "extraordinary",
+    "meaningCn": "异乎寻常的、非凡的",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 206
+  },
+  {
+    "id": "basic_700_0207",
+    "word": "eyewitness",
+    "meaningCn": "目击证人",
+    "book": "basic_700",
+    "letter": "E",
+    "orderIndex": 207
+  },
+  {
+    "id": "basic_700_0208",
+    "word": "fare",
+    "meaningCn": "交通费用",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 208
+  },
+  {
+    "id": "basic_700_0209",
+    "word": "fat",
+    "meaningCn": "脂肪、肥胖的",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 209
+  },
+  {
+    "id": "basic_700_0210",
+    "word": "favourite",
+    "meaningCn": "最喜爱的人或物",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 210
+  },
+  {
+    "id": "basic_700_0211",
+    "word": "fax",
+    "meaningCn": "传真",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 211
+  },
+  {
+    "id": "basic_700_0212",
+    "word": "female",
+    "meaningCn": "女性的、雌性的",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 212
+  },
+  {
+    "id": "basic_700_0213",
+    "word": "fence",
+    "meaningCn": "栅栏、篱笆",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 213
+  },
+  {
+    "id": "basic_700_0214",
+    "word": "ferry",
+    "meaningCn": "渡船",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 214
+  },
+  {
+    "id": "basic_700_0215",
+    "word": "fever",
+    "meaningCn": "发烧、发热",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 215
+  },
+  {
+    "id": "basic_700_0216",
+    "word": "fiction",
+    "meaningCn": "小说、虚构事件",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 216
+  },
+  {
+    "id": "basic_700_0217",
+    "word": "fifteen",
+    "meaningCn": "十五",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 217
+  },
+  {
+    "id": "basic_700_0218",
+    "word": "fifty",
+    "meaningCn": "五十",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 218
+  },
+  {
+    "id": "basic_700_0219",
+    "word": "file",
+    "meaningCn": "文档",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 219
+  },
+  {
+    "id": "basic_700_0220",
+    "word": "finger",
+    "meaningCn": "手指",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 220
+  },
+  {
+    "id": "basic_700_0221",
+    "word": "firework",
+    "meaningCn": "烟花",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 221
+  },
+  {
+    "id": "basic_700_0222",
+    "word": "five",
+    "meaningCn": "五",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 222
+  },
+  {
+    "id": "basic_700_0223",
+    "word": "flag",
+    "meaningCn": "旗子",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 223
+  },
+  {
+    "id": "basic_700_0224",
+    "word": "flashlight",
+    "meaningCn": "手电筒",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 224
+  },
+  {
+    "id": "basic_700_0225",
+    "word": "flesh",
+    "meaningCn": "肉、肉体",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 225
+  },
+  {
+    "id": "basic_700_0226",
+    "word": "flour",
+    "meaningCn": "面粉",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 226
+  },
+  {
+    "id": "basic_700_0227",
+    "word": "flu",
+    "meaningCn": "流感",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 227
+  },
+  {
+    "id": "basic_700_0228",
+    "word": "folk",
+    "meaningCn": "民间的、民俗的",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 228
+  },
+  {
+    "id": "basic_700_0229",
+    "word": "fork",
+    "meaningCn": "餐叉",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 229
+  },
+  {
+    "id": "basic_700_0230",
+    "word": "format",
+    "meaningCn": "格式",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 230
+  },
+  {
+    "id": "basic_700_0231",
+    "word": "forty",
+    "meaningCn": "四十",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 231
+  },
+  {
+    "id": "basic_700_0232",
+    "word": "fountain",
+    "meaningCn": "喷泉",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 232
+  },
+  {
+    "id": "basic_700_0233",
+    "word": "fourteen",
+    "meaningCn": "十四",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 233
+  },
+  {
+    "id": "basic_700_0234",
+    "word": "fox",
+    "meaningCn": "狐狸",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 234
+  },
+  {
+    "id": "basic_700_0235",
+    "word": "fridge",
+    "meaningCn": "冰箱",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 235
+  },
+  {
+    "id": "basic_700_0236",
+    "word": "frog",
+    "meaningCn": "青蛙",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 236
+  },
+  {
+    "id": "basic_700_0237",
+    "word": "fry",
+    "meaningCn": "煎、炸",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 237
+  },
+  {
+    "id": "basic_700_0238",
+    "word": "fur",
+    "meaningCn": "毛皮",
+    "book": "basic_700",
+    "letter": "F",
+    "orderIndex": 238
+  },
+  {
+    "id": "basic_700_0239",
+    "word": "gallery",
+    "meaningCn": "画廊、美术馆",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 239
+  },
+  {
+    "id": "basic_700_0240",
+    "word": "garage",
+    "meaningCn": "车库、修车厂",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 240
+  },
+  {
+    "id": "basic_700_0241",
+    "word": "garlic",
+    "meaningCn": "大蒜",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 241
+  },
+  {
+    "id": "basic_700_0242",
+    "word": "gender",
+    "meaningCn": "性别",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 242
+  },
+  {
+    "id": "basic_700_0243",
+    "word": "genius",
+    "meaningCn": "天才",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 243
+  },
+  {
+    "id": "basic_700_0244",
+    "word": "giraffe",
+    "meaningCn": "长颈鹿",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 244
+  },
+  {
+    "id": "basic_700_0245",
+    "word": "glass",
+    "meaningCn": "玻璃杯、玻璃",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 245
+  },
+  {
+    "id": "basic_700_0246",
+    "word": "globe",
+    "meaningCn": "地球、世界、地球仪",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 246
+  },
+  {
+    "id": "basic_700_0247",
+    "word": "goat",
+    "meaningCn": "山羊",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 247
+  },
+  {
+    "id": "basic_700_0248",
+    "word": "God",
+    "meaningCn": "上帝",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 248
+  },
+  {
+    "id": "basic_700_0249",
+    "word": "goldfish",
+    "meaningCn": "金鱼",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 249
+  },
+  {
+    "id": "basic_700_0250",
+    "word": "golf",
+    "meaningCn": "高尔夫球",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 250
+  },
+  {
+    "id": "basic_700_0251",
+    "word": "goose",
+    "meaningCn": "鹅",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 251
+  },
+  {
+    "id": "basic_700_0252",
+    "word": "gram",
+    "meaningCn": "克",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 252
+  },
+  {
+    "id": "basic_700_0253",
+    "word": "grammar",
+    "meaningCn": "语法",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 253
+  },
+  {
+    "id": "basic_700_0254",
+    "word": "grandchild",
+    "meaningCn": "孙子、孙女 grandparents",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 254
+  },
+  {
+    "id": "basic_700_0255",
+    "word": "granny",
+    "meaningCn": "老奶奶、外婆",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 255
+  },
+  {
+    "id": "basic_700_0256",
+    "word": "grape",
+    "meaningCn": "葡萄",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 256
+  },
+  {
+    "id": "basic_700_0257",
+    "word": "green",
+    "meaningCn": "绿色的",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 257
+  },
+  {
+    "id": "basic_700_0258",
+    "word": "grill",
+    "meaningCn": "烧烤架",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 258
+  },
+  {
+    "id": "basic_700_0259",
+    "word": "guitar",
+    "meaningCn": "吉他",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 259
+  },
+  {
+    "id": "basic_700_0260",
+    "word": "gun",
+    "meaningCn": "枪",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 260
+  },
+  {
+    "id": "basic_700_0261",
+    "word": "guy",
+    "meaningCn": "家伙、男人",
+    "book": "basic_700",
+    "letter": "G",
+    "orderIndex": 261
+  },
+  {
+    "id": "basic_700_0262",
+    "word": "haircut",
+    "meaningCn": "理发",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 262
+  },
+  {
+    "id": "basic_700_0263",
+    "word": "ham",
+    "meaningCn": "火腿",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 263
+  },
+  {
+    "id": "basic_700_0264",
+    "word": "hamburger",
+    "meaningCn": "汉堡包",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 264
+  },
+  {
+    "id": "basic_700_0265",
+    "word": "hammer",
+    "meaningCn": "锤子",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 265
+  },
+  {
+    "id": "basic_700_0266",
+    "word": "handkerchief",
+    "meaningCn": "手帕",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 266
+  },
+  {
+    "id": "basic_700_0267",
+    "word": "handsome",
+    "meaningCn": "英俊的",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 267
+  },
+  {
+    "id": "basic_700_0268",
+    "word": "handwriting",
+    "meaningCn": "书写、笔迹",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 268
+  },
+  {
+    "id": "basic_700_0269",
+    "word": "hardworking",
+    "meaningCn": "努力工作的",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 269
+  },
+  {
+    "id": "basic_700_0270",
+    "word": "hawk",
+    "meaningCn": "鹰",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 270
+  },
+  {
+    "id": "basic_700_0271",
+    "word": "hay",
+    "meaningCn": "干草",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 271
+  },
+  {
+    "id": "basic_700_0272",
+    "word": "headline",
+    "meaningCn": "大字标题",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 272
+  },
+  {
+    "id": "basic_700_0273",
+    "word": "heaven",
+    "meaningCn": "天堂",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 273
+  },
+  {
+    "id": "basic_700_0274",
+    "word": "helicopter",
+    "meaningCn": "直升飞机",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 274
+  },
+  {
+    "id": "basic_700_0275",
+    "word": "helmet",
+    "meaningCn": "头盔",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 275
+  },
+  {
+    "id": "basic_700_0276",
+    "word": "hen",
+    "meaningCn": "母鸡",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 276
+  },
+  {
+    "id": "basic_700_0277",
+    "word": "herb",
+    "meaningCn": "药草",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 277
+  },
+  {
+    "id": "basic_700_0278",
+    "word": "here",
+    "meaningCn": "这里、在这里",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 278
+  },
+  {
+    "id": "basic_700_0279",
+    "word": "highway",
+    "meaningCn": "公路",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 279
+  },
+  {
+    "id": "basic_700_0280",
+    "word": "holy",
+    "meaningCn": "神圣的",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 280
+  },
+  {
+    "id": "basic_700_0281",
+    "word": "honey",
+    "meaningCn": "蜂蜜",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 281
+  },
+  {
+    "id": "basic_700_0282",
+    "word": "horse",
+    "meaningCn": "马",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 282
+  },
+  {
+    "id": "basic_700_0283",
+    "word": "hotdog",
+    "meaningCn": "热狗",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 283
+  },
+  {
+    "id": "basic_700_0284",
+    "word": "human",
+    "meaningCn": "人、人类",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 284
+  },
+  {
+    "id": "basic_700_0285",
+    "word": "hundred",
+    "meaningCn": "百",
+    "book": "basic_700",
+    "letter": "H",
+    "orderIndex": 285
+  },
+  {
+    "id": "basic_700_0286",
+    "word": "icecream",
+    "meaningCn": "冰淇淋",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 286
+  },
+  {
+    "id": "basic_700_0287",
+    "word": "ink",
+    "meaningCn": "墨水、油墨",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 287
+  },
+  {
+    "id": "basic_700_0288",
+    "word": "inn",
+    "meaningCn": "小旅馆",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 288
+  },
+  {
+    "id": "basic_700_0289",
+    "word": "insect",
+    "meaningCn": "昆虫",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 289
+  },
+  {
+    "id": "basic_700_0290",
+    "word": "inside",
+    "meaningCn": "在…里面",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 290
+  },
+  {
+    "id": "basic_700_0291",
+    "word": "institute",
+    "meaningCn": "学院、机构、研究所",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 291
+  },
+  {
+    "id": "basic_700_0292",
+    "word": "internet",
+    "meaningCn": "互联网",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 292
+  },
+  {
+    "id": "basic_700_0293",
+    "word": "island",
+    "meaningCn": "岛",
+    "book": "basic_700",
+    "letter": "I",
+    "orderIndex": 293
+  },
+  {
+    "id": "basic_700_0294",
+    "word": "jaw",
+    "meaningCn": "下巴、下颌",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 294
+  },
+  {
+    "id": "basic_700_0295",
+    "word": "jazz",
+    "meaningCn": "爵士乐",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 295
+  },
+  {
+    "id": "basic_700_0296",
+    "word": "jeep",
+    "meaningCn": "吉普车",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 296
+  },
+  {
+    "id": "basic_700_0297",
+    "word": "jet",
+    "meaningCn": "喷气式飞机",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 297
+  },
+  {
+    "id": "basic_700_0298",
+    "word": "jewelry",
+    "meaningCn": "珠宝",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 298
+  },
+  {
+    "id": "basic_700_0299",
+    "word": "juice",
+    "meaningCn": "汁水、汁液",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 299
+  },
+  {
+    "id": "basic_700_0300",
+    "word": "jungle",
+    "meaningCn": "丛林",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 300
+  },
+  {
+    "id": "basic_700_0301",
+    "word": "junior",
+    "meaningCn": "初级的、少年的",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 301
+  },
+  {
+    "id": "basic_700_0302",
+    "word": "junk",
+    "meaningCn": "废旧物品、垃圾",
+    "book": "basic_700",
+    "letter": "J",
+    "orderIndex": 302
+  },
+  {
+    "id": "basic_700_0303",
+    "word": "kangaroo",
+    "meaningCn": "袋鼠",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 303
+  },
+  {
+    "id": "basic_700_0304",
+    "word": "keyboard",
+    "meaningCn": "键盘",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 304
+  },
+  {
+    "id": "basic_700_0305",
+    "word": "kilogram",
+    "meaningCn": "公斤",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 305
+  },
+  {
+    "id": "basic_700_0306",
+    "word": "kilometre",
+    "meaningCn": "公里",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 306
+  },
+  {
+    "id": "basic_700_0307",
+    "word": "kindergarten",
+    "meaningCn": "幼儿园",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 307
+  },
+  {
+    "id": "basic_700_0308",
+    "word": "kite",
+    "meaningCn": "风筝",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 308
+  },
+  {
+    "id": "basic_700_0309",
+    "word": "knee",
+    "meaningCn": "膝盖",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 309
+  },
+  {
+    "id": "basic_700_0310",
+    "word": "knife",
+    "meaningCn": "小刀",
+    "book": "basic_700",
+    "letter": "K",
+    "orderIndex": 310
+  },
+  {
+    "id": "basic_700_0311",
+    "word": "ladder",
+    "meaningCn": "梯子",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 311
+  },
+  {
+    "id": "basic_700_0312",
+    "word": "lady",
+    "meaningCn": "女士祖父、祖母 lamb 羔羊",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 312
+  },
+  {
+    "id": "basic_700_0313",
+    "word": "lap",
+    "meaningCn": "大腿腿面、一圈跑道",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 313
+  },
+  {
+    "id": "basic_700_0314",
+    "word": "laptop",
+    "meaningCn": "笔记本电脑",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 314
+  },
+  {
+    "id": "basic_700_0315",
+    "word": "laser",
+    "meaningCn": "激光",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 315
+  },
+  {
+    "id": "basic_700_0316",
+    "word": "law",
+    "meaningCn": "法律、法则、定律",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 316
+  },
+  {
+    "id": "basic_700_0317",
+    "word": "leather",
+    "meaningCn": "皮革",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 317
+  },
+  {
+    "id": "basic_700_0318",
+    "word": "leftover",
+    "meaningCn": "残羹剩饭、残存物",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 318
+  },
+  {
+    "id": "basic_700_0319",
+    "word": "leisure",
+    "meaningCn": "休闲",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 319
+  },
+  {
+    "id": "basic_700_0320",
+    "word": "lemon",
+    "meaningCn": "柠檬",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 320
+  },
+  {
+    "id": "basic_700_0321",
+    "word": "lid",
+    "meaningCn": "盖子",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 321
+  },
+  {
+    "id": "basic_700_0322",
+    "word": "lifetime",
+    "meaningCn": "一生、终生",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 322
+  },
+  {
+    "id": "basic_700_0323",
+    "word": "lightning",
+    "meaningCn": "闪电",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 323
+  },
+  {
+    "id": "basic_700_0324",
+    "word": "lion",
+    "meaningCn": "狮子",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 324
+  },
+  {
+    "id": "basic_700_0325",
+    "word": "lip",
+    "meaningCn": "嘴唇",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 325
+  },
+  {
+    "id": "basic_700_0326",
+    "word": "liquid",
+    "meaningCn": "液体、液体的",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 326
+  },
+  {
+    "id": "basic_700_0327",
+    "word": "litre",
+    "meaningCn": "公升",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 327
+  },
+  {
+    "id": "basic_700_0328",
+    "word": "litter",
+    "meaningCn": "垃圾",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 328
+  },
+  {
+    "id": "basic_700_0329",
+    "word": "loan",
+    "meaningCn": "贷款",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 329
+  },
+  {
+    "id": "basic_700_0330",
+    "word": "lot",
+    "meaningCn": "许多",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 330
+  },
+  {
+    "id": "basic_700_0331",
+    "word": "lung",
+    "meaningCn": "肺",
+    "book": "basic_700",
+    "letter": "L",
+    "orderIndex": 331
+  },
+  {
+    "id": "basic_700_0332",
+    "word": "madam",
+    "meaningCn": "夫人、女士",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 332
+  },
+  {
+    "id": "basic_700_0333",
+    "word": "magazine",
+    "meaningCn": "杂志",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 333
+  },
+  {
+    "id": "basic_700_0334",
+    "word": "maid",
+    "meaningCn": "女仆",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 334
+  },
+  {
+    "id": "basic_700_0335",
+    "word": "mainland",
+    "meaningCn": "大陆",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 335
+  },
+  {
+    "id": "basic_700_0336",
+    "word": "male",
+    "meaningCn": "男性的、雄性的",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 336
+  },
+  {
+    "id": "basic_700_0337",
+    "word": "marathon",
+    "meaningCn": "马拉松",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 337
+  },
+  {
+    "id": "basic_700_0338",
+    "word": "mask",
+    "meaningCn": "口罩、面具",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 338
+  },
+  {
+    "id": "basic_700_0339",
+    "word": "mass",
+    "meaningCn": "大量、大块、群众",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 339
+  },
+  {
+    "id": "basic_700_0340",
+    "word": "mat",
+    "meaningCn": "垫子",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 340
+  },
+  {
+    "id": "basic_700_0341",
+    "word": "may",
+    "meaningCn": "可能、可以",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 341
+  },
+  {
+    "id": "basic_700_0342",
+    "word": "maybe",
+    "meaningCn": "大概、也许",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 342
+  },
+  {
+    "id": "basic_700_0343",
+    "word": "meat",
+    "meaningCn": "食用的肉类",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 343
+  },
+  {
+    "id": "basic_700_0344",
+    "word": "medal",
+    "meaningCn": "奖牌",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 344
+  },
+  {
+    "id": "basic_700_0345",
+    "word": "media",
+    "meaningCn": "媒体",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 345
+  },
+  {
+    "id": "basic_700_0346",
+    "word": "melon",
+    "meaningCn": "瓜",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 346
+  },
+  {
+    "id": "basic_700_0347",
+    "word": "mend",
+    "meaningCn": "修理、修补",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 347
+  },
+  {
+    "id": "basic_700_0348",
+    "word": "merchant",
+    "meaningCn": "商人",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 348
+  },
+  {
+    "id": "basic_700_0349",
+    "word": "merry",
+    "meaningCn": "高兴的、愉快的",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 349
+  },
+  {
+    "id": "basic_700_0350",
+    "word": "metal",
+    "meaningCn": "金属、金属的",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 350
+  },
+  {
+    "id": "basic_700_0351",
+    "word": "metre",
+    "meaningCn": "米 microcomputer",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 351
+  },
+  {
+    "id": "basic_700_0352",
+    "word": "microscope",
+    "meaningCn": "显微镜",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 352
+  },
+  {
+    "id": "basic_700_0353",
+    "word": "microwave",
+    "meaningCn": "微波",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 353
+  },
+  {
+    "id": "basic_700_0354",
+    "word": "mile",
+    "meaningCn": "英里",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 354
+  },
+  {
+    "id": "basic_700_0355",
+    "word": "milk",
+    "meaningCn": "牛奶、挤奶",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 355
+  },
+  {
+    "id": "basic_700_0356",
+    "word": "millimetre",
+    "meaningCn": "毫米",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 356
+  },
+  {
+    "id": "basic_700_0357",
+    "word": "million",
+    "meaningCn": "百万",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 357
+  },
+  {
+    "id": "basic_700_0358",
+    "word": "minibus",
+    "meaningCn": "小型公共汽车",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 358
+  },
+  {
+    "id": "basic_700_0359",
+    "word": "minister",
+    "meaningCn": "部长",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 359
+  },
+  {
+    "id": "basic_700_0360",
+    "word": "ministry",
+    "meaningCn": "政府部门",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 360
+  },
+  {
+    "id": "basic_700_0361",
+    "word": "minus",
+    "meaningCn": "减",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 361
+  },
+  {
+    "id": "basic_700_0362",
+    "word": "minute",
+    "meaningCn": "分钟",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 362
+  },
+  {
+    "id": "basic_700_0363",
+    "word": "missile",
+    "meaningCn": "导弹",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 363
+  },
+  {
+    "id": "basic_700_0364",
+    "word": "mist",
+    "meaningCn": "雾",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 364
+  },
+  {
+    "id": "basic_700_0365",
+    "word": "mobile",
+    "meaningCn": "手机、可移动的",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 365
+  },
+  {
+    "id": "basic_700_0366",
+    "word": "Mom",
+    "meaningCn": "妈妈",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 366
+  },
+  {
+    "id": "basic_700_0367",
+    "word": "monkey",
+    "meaningCn": "猴子",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 367
+  },
+  {
+    "id": "basic_700_0368",
+    "word": "moon",
+    "meaningCn": "月亮",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 368
+  },
+  {
+    "id": "basic_700_0369",
+    "word": "morning",
+    "meaningCn": "上午",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 369
+  },
+  {
+    "id": "basic_700_0370",
+    "word": "mosquito",
+    "meaningCn": "蚊子",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 370
+  },
+  {
+    "id": "basic_700_0371",
+    "word": "motherland",
+    "meaningCn": "祖国",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 371
+  },
+  {
+    "id": "basic_700_0372",
+    "word": "motor",
+    "meaningCn": "发动机",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 372
+  },
+  {
+    "id": "basic_700_0373",
+    "word": "motorbike",
+    "meaningCn": "摩托车",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 373
+  },
+  {
+    "id": "basic_700_0374",
+    "word": "mouse",
+    "meaningCn": "老鼠、鼠标",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 374
+  },
+  {
+    "id": "basic_700_0375",
+    "word": "mud",
+    "meaningCn": "淤泥、泥浆",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 375
+  },
+  {
+    "id": "basic_700_0376",
+    "word": "muscle",
+    "meaningCn": "肌肉",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 376
+  },
+  {
+    "id": "basic_700_0377",
+    "word": "mushroom",
+    "meaningCn": "蘑菇",
+    "book": "basic_700",
+    "letter": "M",
+    "orderIndex": 377
+  },
+  {
+    "id": "basic_700_0378",
+    "word": "nail",
+    "meaningCn": "钉子",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 378
+  },
+  {
+    "id": "basic_700_0379",
+    "word": "neck",
+    "meaningCn": "脖子",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 379
+  },
+  {
+    "id": "basic_700_0380",
+    "word": "needle",
+    "meaningCn": "针",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 380
+  },
+  {
+    "id": "basic_700_0381",
+    "word": "nephew",
+    "meaningCn": "侄子、外甥",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 381
+  },
+  {
+    "id": "basic_700_0382",
+    "word": "network",
+    "meaningCn": "网络",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 382
+  },
+  {
+    "id": "basic_700_0383",
+    "word": "news",
+    "meaningCn": "新闻、消息",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 383
+  },
+  {
+    "id": "basic_700_0384",
+    "word": "niece",
+    "meaningCn": "侄女、外甥女",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 384
+  },
+  {
+    "id": "basic_700_0385",
+    "word": "nine",
+    "meaningCn": "九",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 385
+  },
+  {
+    "id": "basic_700_0386",
+    "word": "nineteen",
+    "meaningCn": "十九",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 386
+  },
+  {
+    "id": "basic_700_0387",
+    "word": "ninety",
+    "meaningCn": "九十",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 387
+  },
+  {
+    "id": "basic_700_0388",
+    "word": "noodle",
+    "meaningCn": "面条",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 388
+  },
+  {
+    "id": "basic_700_0389",
+    "word": "noon",
+    "meaningCn": "中午",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 389
+  },
+  {
+    "id": "basic_700_0390",
+    "word": "north",
+    "meaningCn": "北方",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 390
+  },
+  {
+    "id": "basic_700_0391",
+    "word": "nut",
+    "meaningCn": "坚果",
+    "book": "basic_700",
+    "letter": "N",
+    "orderIndex": 391
+  },
+  {
+    "id": "basic_700_0392",
+    "word": "ocean",
+    "meaningCn": "海洋",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 392
+  },
+  {
+    "id": "basic_700_0393",
+    "word": "o'clock …",
+    "meaningCn": "点钟",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 393
+  },
+  {
+    "id": "basic_700_0394",
+    "word": "oil",
+    "meaningCn": "油、石油",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 394
+  },
+  {
+    "id": "basic_700_0395",
+    "word": "Olympic",
+    "meaningCn": "奥林匹克",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 395
+  },
+  {
+    "id": "basic_700_0396",
+    "word": "onion",
+    "meaningCn": "洋葱",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 396
+  },
+  {
+    "id": "basic_700_0397",
+    "word": "opera",
+    "meaningCn": "歌剧",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 397
+  },
+  {
+    "id": "basic_700_0398",
+    "word": "opposite",
+    "meaningCn": "与…相对、在…对面",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 398
+  },
+  {
+    "id": "basic_700_0399",
+    "word": "orange",
+    "meaningCn": "橙子、橙色的",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 399
+  },
+  {
+    "id": "basic_700_0400",
+    "word": "ought",
+    "meaningCn": "应该",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 400
+  },
+  {
+    "id": "basic_700_0401",
+    "word": "outdoors",
+    "meaningCn": "在户外",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 401
+  },
+  {
+    "id": "basic_700_0402",
+    "word": "outer",
+    "meaningCn": "外部的",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 402
+  },
+  {
+    "id": "basic_700_0403",
+    "word": "outing",
+    "meaningCn": "郊游、远足",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 403
+  },
+  {
+    "id": "basic_700_0404",
+    "word": "outline",
+    "meaningCn": "概述、大纲",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 404
+  },
+  {
+    "id": "basic_700_0405",
+    "word": "output",
+    "meaningCn": "产量、产出",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 405
+  },
+  {
+    "id": "basic_700_0406",
+    "word": "outward",
+    "meaningCn": "向外的",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 406
+  },
+  {
+    "id": "basic_700_0407",
+    "word": "overseas",
+    "meaningCn": "外国的、在国外",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 407
+  },
+  {
+    "id": "basic_700_0408",
+    "word": "ox",
+    "meaningCn": "公牛微型电脑 oxygen 氧、氧气",
+    "book": "basic_700",
+    "letter": "O",
+    "orderIndex": 408
+  },
+  {
+    "id": "basic_700_0409",
+    "word": "P.E.",
+    "meaningCn": "体育",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 409
+  },
+  {
+    "id": "basic_700_0410",
+    "word": "P.M.",
+    "meaningCn": "午后、下午",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 410
+  },
+  {
+    "id": "basic_700_0411",
+    "word": "palace",
+    "meaningCn": "宫殿",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 411
+  },
+  {
+    "id": "basic_700_0412",
+    "word": "pan",
+    "meaningCn": "平底锅",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 412
+  },
+  {
+    "id": "basic_700_0413",
+    "word": "panda",
+    "meaningCn": "熊猫",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 413
+  },
+  {
+    "id": "basic_700_0414",
+    "word": "pardon",
+    "meaningCn": "原谅、宽恕",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 414
+  },
+  {
+    "id": "basic_700_0415",
+    "word": "parrot",
+    "meaningCn": "鹦鹉",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 415
+  },
+  {
+    "id": "basic_700_0416",
+    "word": "part-time",
+    "meaningCn": "兼职的",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 416
+  },
+  {
+    "id": "basic_700_0417",
+    "word": "passer-by",
+    "meaningCn": "路人",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 417
+  },
+  {
+    "id": "basic_700_0418",
+    "word": "pea",
+    "meaningCn": "豌豆",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 418
+  },
+  {
+    "id": "basic_700_0419",
+    "word": "peach",
+    "meaningCn": "桃子",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 419
+  },
+  {
+    "id": "basic_700_0420",
+    "word": "peak",
+    "meaningCn": "山峰、顶峰",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 420
+  },
+  {
+    "id": "basic_700_0421",
+    "word": "pear",
+    "meaningCn": "梨",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 421
+  },
+  {
+    "id": "basic_700_0422",
+    "word": "peasant",
+    "meaningCn": "农民",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 422
+  },
+  {
+    "id": "basic_700_0423",
+    "word": "pencil",
+    "meaningCn": "铅笔",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 423
+  },
+  {
+    "id": "basic_700_0424",
+    "word": "penny",
+    "meaningCn": "便士、美分",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 424
+  },
+  {
+    "id": "basic_700_0425",
+    "word": "people",
+    "meaningCn": "人们",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 425
+  },
+  {
+    "id": "basic_700_0426",
+    "word": "pepper",
+    "meaningCn": "胡椒粉",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 426
+  },
+  {
+    "id": "basic_700_0427",
+    "word": "per",
+    "meaningCn": "每个",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 427
+  },
+  {
+    "id": "basic_700_0428",
+    "word": "percent",
+    "meaningCn": "百分之…",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 428
+  },
+  {
+    "id": "basic_700_0429",
+    "word": "pest",
+    "meaningCn": "害虫",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 429
+  },
+  {
+    "id": "basic_700_0430",
+    "word": "philosophy",
+    "meaningCn": "哲学",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 430
+  },
+  {
+    "id": "basic_700_0431",
+    "word": "piano",
+    "meaningCn": "钢琴",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 431
+  },
+  {
+    "id": "basic_700_0432",
+    "word": "picnic",
+    "meaningCn": "野餐",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 432
+  },
+  {
+    "id": "basic_700_0433",
+    "word": "pie",
+    "meaningCn": "馅饼、派",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 433
+  },
+  {
+    "id": "basic_700_0434",
+    "word": "piece",
+    "meaningCn": "一块、一片、一张",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 434
+  },
+  {
+    "id": "basic_700_0435",
+    "word": "pig",
+    "meaningCn": "猪",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 435
+  },
+  {
+    "id": "basic_700_0436",
+    "word": "pill",
+    "meaningCn": "药丸",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 436
+  },
+  {
+    "id": "basic_700_0437",
+    "word": "pillow",
+    "meaningCn": "枕头",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 437
+  },
+  {
+    "id": "basic_700_0438",
+    "word": "pilot",
+    "meaningCn": "飞行员、试点",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 438
+  },
+  {
+    "id": "basic_700_0439",
+    "word": "pin",
+    "meaningCn": "别针、钉住",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 439
+  },
+  {
+    "id": "basic_700_0440",
+    "word": "pine",
+    "meaningCn": "松树",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 440
+  },
+  {
+    "id": "basic_700_0441",
+    "word": "pineapple",
+    "meaningCn": "菠萝",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 441
+  },
+  {
+    "id": "basic_700_0442",
+    "word": "pink",
+    "meaningCn": "粉色的",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 442
+  },
+  {
+    "id": "basic_700_0443",
+    "word": "planet",
+    "meaningCn": "行星",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 443
+  },
+  {
+    "id": "basic_700_0444",
+    "word": "plant",
+    "meaningCn": "植物、工厂、种植",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 444
+  },
+  {
+    "id": "basic_700_0445",
+    "word": "plastic",
+    "meaningCn": "塑料的",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 445
+  },
+  {
+    "id": "basic_700_0446",
+    "word": "playground",
+    "meaningCn": "操场",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 446
+  },
+  {
+    "id": "basic_700_0447",
+    "word": "playroom",
+    "meaningCn": "游戏室",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 447
+  },
+  {
+    "id": "basic_700_0448",
+    "word": "plug",
+    "meaningCn": "塞子、插头",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 448
+  },
+  {
+    "id": "basic_700_0449",
+    "word": "plus",
+    "meaningCn": "加",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 449
+  },
+  {
+    "id": "basic_700_0450",
+    "word": "poison",
+    "meaningCn": "毒药",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 450
+  },
+  {
+    "id": "basic_700_0451",
+    "word": "polar",
+    "meaningCn": "极地的",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 451
+  },
+  {
+    "id": "basic_700_0452",
+    "word": "pole",
+    "meaningCn": "杆子、地球极点",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 452
+  },
+  {
+    "id": "basic_700_0453",
+    "word": "politics",
+    "meaningCn": "政治",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 453
+  },
+  {
+    "id": "basic_700_0454",
+    "word": "pond",
+    "meaningCn": "池塘",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 454
+  },
+  {
+    "id": "basic_700_0455",
+    "word": "popcorn",
+    "meaningCn": "爆米花",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 455
+  },
+  {
+    "id": "basic_700_0456",
+    "word": "population",
+    "meaningCn": "人口、人数",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 456
+  },
+  {
+    "id": "basic_700_0457",
+    "word": "pork",
+    "meaningCn": "猪肉",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 457
+  },
+  {
+    "id": "basic_700_0458",
+    "word": "port",
+    "meaningCn": "港口、端口",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 458
+  },
+  {
+    "id": "basic_700_0459",
+    "word": "pose",
+    "meaningCn": "姿势",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 459
+  },
+  {
+    "id": "basic_700_0460",
+    "word": "pot",
+    "meaningCn": "壶、瓶、罐、锅",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 460
+  },
+  {
+    "id": "basic_700_0461",
+    "word": "potato",
+    "meaningCn": "土豆",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 461
+  },
+  {
+    "id": "basic_700_0462",
+    "word": "powder",
+    "meaningCn": "粉、粉末",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 462
+  },
+  {
+    "id": "basic_700_0463",
+    "word": "president",
+    "meaningCn": "总统、主席",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 463
+  },
+  {
+    "id": "basic_700_0464",
+    "word": "prison",
+    "meaningCn": "监狱",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 464
+  },
+  {
+    "id": "basic_700_0465",
+    "word": "protein",
+    "meaningCn": "蛋白质",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 465
+  },
+  {
+    "id": "basic_700_0466",
+    "word": "province",
+    "meaningCn": "省",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 466
+  },
+  {
+    "id": "basic_700_0467",
+    "word": "pub",
+    "meaningCn": "酒吧",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 467
+  },
+  {
+    "id": "basic_700_0468",
+    "word": "pudding",
+    "meaningCn": "布丁",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 468
+  },
+  {
+    "id": "basic_700_0469",
+    "word": "pupil",
+    "meaningCn": "小学生",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 469
+  },
+  {
+    "id": "basic_700_0470",
+    "word": "purple",
+    "meaningCn": "紫色的",
+    "book": "basic_700",
+    "letter": "P",
+    "orderIndex": 470
+  },
+  {
+    "id": "basic_700_0471",
+    "word": "quarter",
+    "meaningCn": "四分之一、一刻钟",
+    "book": "basic_700",
+    "letter": "Q",
+    "orderIndex": 471
+  },
+  {
+    "id": "basic_700_0472",
+    "word": "queen",
+    "meaningCn": "皇后、女王",
+    "book": "basic_700",
+    "letter": "Q",
+    "orderIndex": 472
+  },
+  {
+    "id": "basic_700_0473",
+    "word": "queue",
+    "meaningCn": "长队列、排队",
+    "book": "basic_700",
+    "letter": "Q",
+    "orderIndex": 473
+  },
+  {
+    "id": "basic_700_0474",
+    "word": "quilt",
+    "meaningCn": "被子",
+    "book": "basic_700",
+    "letter": "Q",
+    "orderIndex": 474
+  },
+  {
+    "id": "basic_700_0475",
+    "word": "rabbit",
+    "meaningCn": "兔子",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 475
+  },
+  {
+    "id": "basic_700_0476",
+    "word": "radio",
+    "meaningCn": "收音机",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 476
+  },
+  {
+    "id": "basic_700_0477",
+    "word": "rag",
+    "meaningCn": "破布",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 477
+  },
+  {
+    "id": "basic_700_0478",
+    "word": "rainbow",
+    "meaningCn": "彩虹",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 478
+  },
+  {
+    "id": "basic_700_0479",
+    "word": "raincoat",
+    "meaningCn": "雨衣",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 479
+  },
+  {
+    "id": "basic_700_0480",
+    "word": "rat",
+    "meaningCn": "老鼠",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 480
+  },
+  {
+    "id": "basic_700_0481",
+    "word": "ray",
+    "meaningCn": "光线",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 481
+  },
+  {
+    "id": "basic_700_0482",
+    "word": "razor",
+    "meaningCn": "剃须刀",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 482
+  },
+  {
+    "id": "basic_700_0483",
+    "word": "referee",
+    "meaningCn": "裁判",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 483
+  },
+  {
+    "id": "basic_700_0484",
+    "word": "rent",
+    "meaningCn": "租金",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 484
+  },
+  {
+    "id": "basic_700_0485",
+    "word": "republic",
+    "meaningCn": "共和国",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 485
+  },
+  {
+    "id": "basic_700_0486",
+    "word": "rice",
+    "meaningCn": "米",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 486
+  },
+  {
+    "id": "basic_700_0487",
+    "word": "riddle",
+    "meaningCn": "谜语",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 487
+  },
+  {
+    "id": "basic_700_0488",
+    "word": "river",
+    "meaningCn": "河流",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 488
+  },
+  {
+    "id": "basic_700_0489",
+    "word": "roast",
+    "meaningCn": "烤",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 489
+  },
+  {
+    "id": "basic_700_0490",
+    "word": "robot",
+    "meaningCn": "机器人",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 490
+  },
+  {
+    "id": "basic_700_0491",
+    "word": "rocket",
+    "meaningCn": "火箭",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 491
+  },
+  {
+    "id": "basic_700_0492",
+    "word": "rooster",
+    "meaningCn": "公鸡",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 492
+  },
+  {
+    "id": "basic_700_0493",
+    "word": "root",
+    "meaningCn": "根、根源、起源",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 493
+  },
+  {
+    "id": "basic_700_0494",
+    "word": "rot",
+    "meaningCn": "腐烂、腐败",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 494
+  },
+  {
+    "id": "basic_700_0495",
+    "word": "rubber",
+    "meaningCn": "橡胶、橡皮",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 495
+  },
+  {
+    "id": "basic_700_0496",
+    "word": "rubbish",
+    "meaningCn": "垃圾",
+    "book": "basic_700",
+    "letter": "R",
+    "orderIndex": 496
+  },
+  {
+    "id": "basic_700_0497",
+    "word": "sail",
+    "meaningCn": "航行、航海",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 497
+  },
+  {
+    "id": "basic_700_0498",
+    "word": "salad",
+    "meaningCn": "沙拉",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 498
+  },
+  {
+    "id": "basic_700_0499",
+    "word": "salary",
+    "meaningCn": "薪水",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 499
+  },
+  {
+    "id": "basic_700_0500",
+    "word": "salt",
+    "meaningCn": "盐",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 500
+  },
+  {
+    "id": "basic_700_0501",
+    "word": "sand",
+    "meaningCn": "沙子",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 501
+  },
+  {
+    "id": "basic_700_0502",
+    "word": "sandwich",
+    "meaningCn": "三明治",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 502
+  },
+  {
+    "id": "basic_700_0503",
+    "word": "satellite",
+    "meaningCn": "卫星",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 503
+  },
+  {
+    "id": "basic_700_0504",
+    "word": "sauce",
+    "meaningCn": "酱汁",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 504
+  },
+  {
+    "id": "basic_700_0505",
+    "word": "saucer",
+    "meaningCn": "茶碟、圆盘",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 505
+  },
+  {
+    "id": "basic_700_0506",
+    "word": "sausage",
+    "meaningCn": "香肠",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 506
+  },
+  {
+    "id": "basic_700_0507",
+    "word": "scar",
+    "meaningCn": "伤疤、伤痕",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 507
+  },
+  {
+    "id": "basic_700_0508",
+    "word": "scarf",
+    "meaningCn": "围巾",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 508
+  },
+  {
+    "id": "basic_700_0509",
+    "word": "scissors",
+    "meaningCn": "剪刀",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 509
+  },
+  {
+    "id": "basic_700_0510",
+    "word": "seagull",
+    "meaningCn": "海鸥",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 510
+  },
+  {
+    "id": "basic_700_0511",
+    "word": "seaman",
+    "meaningCn": "海员",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 511
+  },
+  {
+    "id": "basic_700_0512",
+    "word": "seashell",
+    "meaningCn": "贝壳",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 512
+  },
+  {
+    "id": "basic_700_0513",
+    "word": "seaside",
+    "meaningCn": "海滨",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 513
+  },
+  {
+    "id": "basic_700_0514",
+    "word": "seaweed",
+    "meaningCn": "海草",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 514
+  },
+  {
+    "id": "basic_700_0515",
+    "word": "secondhand",
+    "meaningCn": "二手货",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 515
+  },
+  {
+    "id": "basic_700_0516",
+    "word": "seed",
+    "meaningCn": "种子",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 516
+  },
+  {
+    "id": "basic_700_0517",
+    "word": "servant",
+    "meaningCn": "仆人",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 517
+  },
+  {
+    "id": "basic_700_0518",
+    "word": "seven",
+    "meaningCn": "七",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 518
+  },
+  {
+    "id": "basic_700_0519",
+    "word": "seventeen",
+    "meaningCn": "十七",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 519
+  },
+  {
+    "id": "basic_700_0520",
+    "word": "seventy",
+    "meaningCn": "七十",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 520
+  },
+  {
+    "id": "basic_700_0521",
+    "word": "several",
+    "meaningCn": "许多的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 521
+  },
+  {
+    "id": "basic_700_0522",
+    "word": "sex",
+    "meaningCn": "性、性别",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 522
+  },
+  {
+    "id": "basic_700_0523",
+    "word": "shabby",
+    "meaningCn": "破旧的、衣衫褴褛的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 523
+  },
+  {
+    "id": "basic_700_0524",
+    "word": "shallow",
+    "meaningCn": "浅的、肤浅的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 524
+  },
+  {
+    "id": "basic_700_0525",
+    "word": "shark",
+    "meaningCn": "鲨鱼",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 525
+  },
+  {
+    "id": "basic_700_0526",
+    "word": "shave",
+    "meaningCn": "剃须",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 526
+  },
+  {
+    "id": "basic_700_0527",
+    "word": "sheep",
+    "meaningCn": "绵羊",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 527
+  },
+  {
+    "id": "basic_700_0528",
+    "word": "sheet",
+    "meaningCn": "薄板、床单",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 528
+  },
+  {
+    "id": "basic_700_0529",
+    "word": "shelf",
+    "meaningCn": "架子",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 529
+  },
+  {
+    "id": "basic_700_0530",
+    "word": "shortcoming",
+    "meaningCn": "缺点",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 530
+  },
+  {
+    "id": "basic_700_0531",
+    "word": "shower",
+    "meaningCn": "阵雨、淋浴",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 531
+  },
+  {
+    "id": "basic_700_0532",
+    "word": "shuttle",
+    "meaningCn": "穿梭班机或汽车",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 532
+  },
+  {
+    "id": "basic_700_0533",
+    "word": "sightseeing",
+    "meaningCn": "游览、观光",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 533
+  },
+  {
+    "id": "basic_700_0534",
+    "word": "silk",
+    "meaningCn": "丝织品",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 534
+  },
+  {
+    "id": "basic_700_0535",
+    "word": "silver",
+    "meaningCn": "银色的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 535
+  },
+  {
+    "id": "basic_700_0536",
+    "word": "sir",
+    "meaningCn": "先生、阁下",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 536
+  },
+  {
+    "id": "basic_700_0537",
+    "word": "six",
+    "meaningCn": "六",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 537
+  },
+  {
+    "id": "basic_700_0538",
+    "word": "sixteen",
+    "meaningCn": "十六",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 538
+  },
+  {
+    "id": "basic_700_0539",
+    "word": "sixty",
+    "meaningCn": "六十",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 539
+  },
+  {
+    "id": "basic_700_0540",
+    "word": "skin",
+    "meaningCn": "皮肤、表皮",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 540
+  },
+  {
+    "id": "basic_700_0541",
+    "word": "skirt",
+    "meaningCn": "短裙",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 541
+  },
+  {
+    "id": "basic_700_0542",
+    "word": "sky",
+    "meaningCn": "天空",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 542
+  },
+  {
+    "id": "basic_700_0543",
+    "word": "skyscraper",
+    "meaningCn": "摩天大楼",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 543
+  },
+  {
+    "id": "basic_700_0544",
+    "word": "slave",
+    "meaningCn": "奴隶",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 544
+  },
+  {
+    "id": "basic_700_0545",
+    "word": "sleeve",
+    "meaningCn": "袖子",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 545
+  },
+  {
+    "id": "basic_700_0546",
+    "word": "slice",
+    "meaningCn": "薄片",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 546
+  },
+  {
+    "id": "basic_700_0547",
+    "word": "smoke-free",
+    "meaningCn": "非吸烟的、无烟的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 547
+  },
+  {
+    "id": "basic_700_0548",
+    "word": "snake",
+    "meaningCn": "蛇",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 548
+  },
+  {
+    "id": "basic_700_0549",
+    "word": "snowball",
+    "meaningCn": "雪球",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 549
+  },
+  {
+    "id": "basic_700_0550",
+    "word": "snowman",
+    "meaningCn": "雪人",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 550
+  },
+  {
+    "id": "basic_700_0551",
+    "word": "soap",
+    "meaningCn": "肥皂",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 551
+  },
+  {
+    "id": "basic_700_0552",
+    "word": "soccer",
+    "meaningCn": "足球",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 552
+  },
+  {
+    "id": "basic_700_0553",
+    "word": "socialism",
+    "meaningCn": "社会主义",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 553
+  },
+  {
+    "id": "basic_700_0554",
+    "word": "sofa",
+    "meaningCn": "沙发",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 554
+  },
+  {
+    "id": "basic_700_0555",
+    "word": "softball",
+    "meaningCn": "垒球",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 555
+  },
+  {
+    "id": "basic_700_0556",
+    "word": "softdrink",
+    "meaningCn": "无酒精饮料",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 556
+  },
+  {
+    "id": "basic_700_0557",
+    "word": "software",
+    "meaningCn": "软件",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 557
+  },
+  {
+    "id": "basic_700_0558",
+    "word": "soil",
+    "meaningCn": "土壤",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 558
+  },
+  {
+    "id": "basic_700_0559",
+    "word": "solar",
+    "meaningCn": "太阳的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 559
+  },
+  {
+    "id": "basic_700_0560",
+    "word": "son",
+    "meaningCn": "儿子",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 560
+  },
+  {
+    "id": "basic_700_0561",
+    "word": "soul",
+    "meaningCn": "灵魂、心灵",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 561
+  },
+  {
+    "id": "basic_700_0562",
+    "word": "soup",
+    "meaningCn": "汤",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 562
+  },
+  {
+    "id": "basic_700_0563",
+    "word": "south",
+    "meaningCn": "南方",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 563
+  },
+  {
+    "id": "basic_700_0564",
+    "word": "spaceship",
+    "meaningCn": "宇宙飞船",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 564
+  },
+  {
+    "id": "basic_700_0565",
+    "word": "spade",
+    "meaningCn": "铲子",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 565
+  },
+  {
+    "id": "basic_700_0566",
+    "word": "sparrow",
+    "meaningCn": "麻雀",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 566
+  },
+  {
+    "id": "basic_700_0567",
+    "word": "spear",
+    "meaningCn": "长矛",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 567
+  },
+  {
+    "id": "basic_700_0568",
+    "word": "spell",
+    "meaningCn": "拼写、咒语",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 568
+  },
+  {
+    "id": "basic_700_0569",
+    "word": "spit",
+    "meaningCn": "吐痰",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 569
+  },
+  {
+    "id": "basic_700_0570",
+    "word": "splendid",
+    "meaningCn": "灿烂的、辉煌的、极好的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 570
+  },
+  {
+    "id": "basic_700_0571",
+    "word": "spring",
+    "meaningCn": "春天、泉水",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 571
+  },
+  {
+    "id": "basic_700_0572",
+    "word": "squid",
+    "meaningCn": "鱿鱼",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 572
+  },
+  {
+    "id": "basic_700_0573",
+    "word": "squirrel",
+    "meaningCn": "松鼠",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 573
+  },
+  {
+    "id": "basic_700_0574",
+    "word": "stair",
+    "meaningCn": "楼梯",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 574
+  },
+  {
+    "id": "basic_700_0575",
+    "word": "stamp",
+    "meaningCn": "邮票",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 575
+  },
+  {
+    "id": "basic_700_0576",
+    "word": "star",
+    "meaningCn": "星星",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 576
+  },
+  {
+    "id": "basic_700_0577",
+    "word": "steak",
+    "meaningCn": "牛排",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 577
+  },
+  {
+    "id": "basic_700_0578",
+    "word": "steel",
+    "meaningCn": "钢铁",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 578
+  },
+  {
+    "id": "basic_700_0579",
+    "word": "stocking",
+    "meaningCn": "长筒女袜",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 579
+  },
+  {
+    "id": "basic_700_0580",
+    "word": "stopwatch",
+    "meaningCn": "秒表",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 580
+  },
+  {
+    "id": "basic_700_0581",
+    "word": "stove",
+    "meaningCn": "火炉 straightforward的、坦率的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 581
+  },
+  {
+    "id": "basic_700_0582",
+    "word": "strawberry",
+    "meaningCn": "草莓",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 582
+  },
+  {
+    "id": "basic_700_0583",
+    "word": "studio",
+    "meaningCn": "工作室、演播室",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 583
+  },
+  {
+    "id": "basic_700_0584",
+    "word": "suburb",
+    "meaningCn": "郊区",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 584
+  },
+  {
+    "id": "basic_700_0585",
+    "word": "subway",
+    "meaningCn": "地铁",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 585
+  },
+  {
+    "id": "basic_700_0586",
+    "word": "suck",
+    "meaningCn": "吮吸、抽取",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 586
+  },
+  {
+    "id": "basic_700_0587",
+    "word": "sugar",
+    "meaningCn": "糖",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 587
+  },
+  {
+    "id": "basic_700_0588",
+    "word": "suite",
+    "meaningCn": "套间、组曲",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 588
+  },
+  {
+    "id": "basic_700_0589",
+    "word": "summary",
+    "meaningCn": "概要",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 589
+  },
+  {
+    "id": "basic_700_0590",
+    "word": "summer",
+    "meaningCn": "夏天",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 590
+  },
+  {
+    "id": "basic_700_0591",
+    "word": "super",
+    "meaningCn": "超级的",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 591
+  },
+  {
+    "id": "basic_700_0592",
+    "word": "supermarket",
+    "meaningCn": "超市",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 592
+  },
+  {
+    "id": "basic_700_0593",
+    "word": "switch",
+    "meaningCn": "转换、改变、开关",
+    "book": "basic_700",
+    "letter": "S",
+    "orderIndex": 593
+  },
+  {
+    "id": "basic_700_0594",
+    "word": "tablet",
+    "meaningCn": "药片、平板电脑",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 594
+  },
+  {
+    "id": "basic_700_0595",
+    "word": "tailor",
+    "meaningCn": "裁缝",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 595
+  },
+  {
+    "id": "basic_700_0596",
+    "word": "tale",
+    "meaningCn": "故事、传说",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 596
+  },
+  {
+    "id": "basic_700_0597",
+    "word": "tax-free",
+    "meaningCn": "免税的",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 597
+  },
+  {
+    "id": "basic_700_0598",
+    "word": "taxi",
+    "meaningCn": "出租车",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 598
+  },
+  {
+    "id": "basic_700_0599",
+    "word": "tea",
+    "meaningCn": "茶(cid:0)",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 599
+  },
+  {
+    "id": "basic_700_0600",
+    "word": "technique",
+    "meaningCn": "技术、技巧、方法",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 600
+  },
+  {
+    "id": "basic_700_0601",
+    "word": "teenager 13",
+    "meaningCn": "至19岁青少年",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 601
+  },
+  {
+    "id": "basic_700_0602",
+    "word": "television",
+    "meaningCn": "电视",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 602
+  },
+  {
+    "id": "basic_700_0603",
+    "word": "temple",
+    "meaningCn": "寺庙",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 603
+  },
+  {
+    "id": "basic_700_0604",
+    "word": "ten",
+    "meaningCn": "十",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 604
+  },
+  {
+    "id": "basic_700_0605",
+    "word": "tennis",
+    "meaningCn": "网球",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 605
+  },
+  {
+    "id": "basic_700_0606",
+    "word": "that",
+    "meaningCn": "那个",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 606
+  },
+  {
+    "id": "basic_700_0607",
+    "word": "the",
+    "meaningCn": "这个、那个",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 607
+  },
+  {
+    "id": "basic_700_0608",
+    "word": "these",
+    "meaningCn": "这些",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 608
+  },
+  {
+    "id": "basic_700_0609",
+    "word": "thin",
+    "meaningCn": "薄的、瘦的",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 609
+  },
+  {
+    "id": "basic_700_0610",
+    "word": "thirteen",
+    "meaningCn": "十三",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 610
+  },
+  {
+    "id": "basic_700_0611",
+    "word": "thirty",
+    "meaningCn": "三十",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 611
+  },
+  {
+    "id": "basic_700_0612",
+    "word": "this",
+    "meaningCn": "这个",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 612
+  },
+  {
+    "id": "basic_700_0613",
+    "word": "thorough",
+    "meaningCn": "彻底的",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 613
+  },
+  {
+    "id": "basic_700_0614",
+    "word": "those",
+    "meaningCn": "那些",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 614
+  },
+  {
+    "id": "basic_700_0615",
+    "word": "thousand",
+    "meaningCn": "千",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 615
+  },
+  {
+    "id": "basic_700_0616",
+    "word": "thread",
+    "meaningCn": "线",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 616
+  },
+  {
+    "id": "basic_700_0617",
+    "word": "throughout",
+    "meaningCn": "遍及、始终 thunderstorm",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 617
+  },
+  {
+    "id": "basic_700_0618",
+    "word": "tick",
+    "meaningCn": "打勾、作记号、滴答声",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 618
+  },
+  {
+    "id": "basic_700_0619",
+    "word": "tiger",
+    "meaningCn": "老虎",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 619
+  },
+  {
+    "id": "basic_700_0620",
+    "word": "timetable",
+    "meaningCn": "时间表",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 620
+  },
+  {
+    "id": "basic_700_0621",
+    "word": "tin",
+    "meaningCn": "罐头",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 621
+  },
+  {
+    "id": "basic_700_0622",
+    "word": "toast",
+    "meaningCn": "干杯、吐司面包、烤",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 622
+  },
+  {
+    "id": "basic_700_0623",
+    "word": "tobacco",
+    "meaningCn": "烟草",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 623
+  },
+  {
+    "id": "basic_700_0624",
+    "word": "today",
+    "meaningCn": "今天、现在、当前",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 624
+  },
+  {
+    "id": "basic_700_0625",
+    "word": "toilet",
+    "meaningCn": "厕所",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 625
+  },
+  {
+    "id": "basic_700_0626",
+    "word": "tomato",
+    "meaningCn": "西红柿",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 626
+  },
+  {
+    "id": "basic_700_0627",
+    "word": "tomb",
+    "meaningCn": "坟墓",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 627
+  },
+  {
+    "id": "basic_700_0628",
+    "word": "tomorrow",
+    "meaningCn": "明天、未来",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 628
+  },
+  {
+    "id": "basic_700_0629",
+    "word": "ton",
+    "meaningCn": "吨",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 629
+  },
+  {
+    "id": "basic_700_0630",
+    "word": "tonight",
+    "meaningCn": "今晚",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 630
+  },
+  {
+    "id": "basic_700_0631",
+    "word": "tooth",
+    "meaningCn": "牙齿",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 631
+  },
+  {
+    "id": "basic_700_0632",
+    "word": "toothache",
+    "meaningCn": "牙疼",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 632
+  },
+  {
+    "id": "basic_700_0633",
+    "word": "toothbrush",
+    "meaningCn": "牙刷",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 633
+  },
+  {
+    "id": "basic_700_0634",
+    "word": "toothpaste",
+    "meaningCn": "牙膏",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 634
+  },
+  {
+    "id": "basic_700_0635",
+    "word": "tortoise",
+    "meaningCn": "乌龟",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 635
+  },
+  {
+    "id": "basic_700_0636",
+    "word": "towel",
+    "meaningCn": "毛巾",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 636
+  },
+  {
+    "id": "basic_700_0637",
+    "word": "tractor",
+    "meaningCn": "拖拉机直截了当 tree 树",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 637
+  },
+  {
+    "id": "basic_700_0638",
+    "word": "triangle",
+    "meaningCn": "三角形",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 638
+  },
+  {
+    "id": "basic_700_0639",
+    "word": "troop",
+    "meaningCn": "军队",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 639
+  },
+  {
+    "id": "basic_700_0640",
+    "word": "trousers",
+    "meaningCn": "裤子",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 640
+  },
+  {
+    "id": "basic_700_0641",
+    "word": "trunk",
+    "meaningCn": "树干、主体、后备箱",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 641
+  },
+  {
+    "id": "basic_700_0642",
+    "word": "tube",
+    "meaningCn": "管子",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 642
+  },
+  {
+    "id": "basic_700_0643",
+    "word": "turkey",
+    "meaningCn": "火鸡",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 643
+  },
+  {
+    "id": "basic_700_0644",
+    "word": "twelve",
+    "meaningCn": "十二",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 644
+  },
+  {
+    "id": "basic_700_0645",
+    "word": "twenty",
+    "meaningCn": "二十",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 645
+  },
+  {
+    "id": "basic_700_0646",
+    "word": "twenty-one",
+    "meaningCn": "二十一",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 646
+  },
+  {
+    "id": "basic_700_0647",
+    "word": "twice",
+    "meaningCn": "两次、两倍",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 647
+  },
+  {
+    "id": "basic_700_0648",
+    "word": "twin",
+    "meaningCn": "双胞胎",
+    "book": "basic_700",
+    "letter": "T",
+    "orderIndex": 648
+  },
+  {
+    "id": "basic_700_0649",
+    "word": "umbrella",
+    "meaningCn": "雨伞",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 649
+  },
+  {
+    "id": "basic_700_0650",
+    "word": "uncle",
+    "meaningCn": "叔叔",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 650
+  },
+  {
+    "id": "basic_700_0651",
+    "word": "underground",
+    "meaningCn": "地下的、地铁",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 651
+  },
+  {
+    "id": "basic_700_0652",
+    "word": "underline",
+    "meaningCn": "在…下面划线",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 652
+  },
+  {
+    "id": "basic_700_0653",
+    "word": "underwear",
+    "meaningCn": "内衣",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 653
+  },
+  {
+    "id": "basic_700_0654",
+    "word": "uniform",
+    "meaningCn": "制服",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 654
+  },
+  {
+    "id": "basic_700_0655",
+    "word": "union",
+    "meaningCn": "联盟、工会",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 655
+  },
+  {
+    "id": "basic_700_0656",
+    "word": "unit",
+    "meaningCn": "单元、一件物品",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 656
+  },
+  {
+    "id": "basic_700_0657",
+    "word": "upper",
+    "meaningCn": "较高的，靠上的",
+    "book": "basic_700",
+    "letter": "U",
+    "orderIndex": 657
+  },
+  {
+    "id": "basic_700_0658",
+    "word": "via",
+    "meaningCn": "通过、凭借、经由某处",
+    "book": "basic_700",
+    "letter": "V",
+    "orderIndex": 658
+  },
+  {
+    "id": "basic_700_0659",
+    "word": "vinegar",
+    "meaningCn": "醋",
+    "book": "basic_700",
+    "letter": "V",
+    "orderIndex": 659
+  },
+  {
+    "id": "basic_700_0660",
+    "word": "violin",
+    "meaningCn": "小提琴",
+    "book": "basic_700",
+    "letter": "V",
+    "orderIndex": 660
+  },
+  {
+    "id": "basic_700_0661",
+    "word": "virtue",
+    "meaningCn": "美德、品德",
+    "book": "basic_700",
+    "letter": "V",
+    "orderIndex": 661
+  },
+  {
+    "id": "basic_700_0662",
+    "word": "virus",
+    "meaningCn": "病毒",
+    "book": "basic_700",
+    "letter": "V",
+    "orderIndex": 662
+  },
+  {
+    "id": "basic_700_0663",
+    "word": "waist",
+    "meaningCn": "腰部",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 663
+  },
+  {
+    "id": "basic_700_0664",
+    "word": "walnut",
+    "meaningCn": "核桃",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 664
+  },
+  {
+    "id": "basic_700_0665",
+    "word": "ward",
+    "meaningCn": "病房、看护",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 665
+  },
+  {
+    "id": "basic_700_0666",
+    "word": "warehouse",
+    "meaningCn": "仓库",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 666
+  },
+  {
+    "id": "basic_700_0667",
+    "word": "washroom",
+    "meaningCn": "洗手间",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 667
+  },
+  {
+    "id": "basic_700_0668",
+    "word": "wax",
+    "meaningCn": "蜡",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 668
+  },
+  {
+    "id": "basic_700_0669",
+    "word": "web",
+    "meaningCn": "网",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 669
+  },
+  {
+    "id": "basic_700_0670",
+    "word": "wedding",
+    "meaningCn": "婚礼、结婚",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 670
+  },
+  {
+    "id": "basic_700_0671",
+    "word": "weed",
+    "meaningCn": "杂草",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 671
+  },
+  {
+    "id": "basic_700_0672",
+    "word": "west",
+    "meaningCn": "西方",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 672
+  },
+  {
+    "id": "basic_700_0673",
+    "word": "whale",
+    "meaningCn": "鲸鱼",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 673
+  },
+  {
+    "id": "basic_700_0674",
+    "word": "wheat",
+    "meaningCn": "小麦暴风雨 which 哪个、哪些",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 674
+  },
+  {
+    "id": "basic_700_0675",
+    "word": "whistle",
+    "meaningCn": "口哨声",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 675
+  },
+  {
+    "id": "basic_700_0676",
+    "word": "widespread",
+    "meaningCn": "广泛的、普遍的",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 676
+  },
+  {
+    "id": "basic_700_0677",
+    "word": "wine",
+    "meaningCn": "酒",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 677
+  },
+  {
+    "id": "basic_700_0678",
+    "word": "winter",
+    "meaningCn": "冬天",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 678
+  },
+  {
+    "id": "basic_700_0679",
+    "word": "wire",
+    "meaningCn": "电线",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 679
+  },
+  {
+    "id": "basic_700_0680",
+    "word": "wolf",
+    "meaningCn": "狼",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 680
+  },
+  {
+    "id": "basic_700_0681",
+    "word": "worm",
+    "meaningCn": "蠕虫",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 681
+  },
+  {
+    "id": "basic_700_0682",
+    "word": "wrinkle",
+    "meaningCn": "皱纹",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 682
+  },
+  {
+    "id": "basic_700_0683",
+    "word": "wrist",
+    "meaningCn": "手腕",
+    "book": "basic_700",
+    "letter": "W",
+    "orderIndex": 683
+  },
+  {
+    "id": "basic_700_0684",
+    "word": "yawn",
+    "meaningCn": "打哈欠",
+    "book": "basic_700",
+    "letter": "Y",
+    "orderIndex": 684
+  },
+  {
+    "id": "basic_700_0685",
+    "word": "yes",
+    "meaningCn": "肯定、同意",
+    "book": "basic_700",
+    "letter": "Y",
+    "orderIndex": 685
+  },
+  {
+    "id": "basic_700_0686",
+    "word": "yoghurt",
+    "meaningCn": "酸奶",
+    "book": "basic_700",
+    "letter": "Y",
+    "orderIndex": 686
+  },
+  {
+    "id": "basic_700_0687",
+    "word": "yummy",
+    "meaningCn": "美味的",
+    "book": "basic_700",
+    "letter": "Y",
+    "orderIndex": 687
+  },
+  {
+    "id": "basic_700_0688",
+    "word": "zebra",
+    "meaningCn": "斑马",
+    "book": "basic_700",
+    "letter": "Z",
+    "orderIndex": 688
+  },
+  {
+    "id": "basic_700_0689",
+    "word": "zero",
+    "meaningCn": "零、零点、零度",
+    "book": "basic_700",
+    "letter": "Z",
+    "orderIndex": 689
+  },
+  {
+    "id": "basic_700_0690",
+    "word": "zip",
+    "meaningCn": "拉链",
+    "book": "basic_700",
+    "letter": "Z",
+    "orderIndex": 690
+  },
+  {
+    "id": "basic_700_0691",
+    "word": "zipcode",
+    "meaningCn": "邮政编码",
+    "book": "basic_700",
+    "letter": "Z",
+    "orderIndex": 691
+  },
+  {
+    "id": "basic_700_0692",
+    "word": "zoo",
+    "meaningCn": "动物园",
+    "book": "basic_700",
+    "letter": "Z",
+    "orderIndex": 692
+  }
+]

@@ -1,0 +1,5 @@
+'use client';
+import { useMemo, useState } from 'react';
+import { allWords, updateReview } from '@/lib/store';
+export default function Learn(){const [idx,setIdx]=useState(0);const [show,setShow]=useState(false);const words=useMemo(()=>allWords,[ ]);const w=words[idx%words.length];const act=(t:'know'|'fuzzy'|'dont')=>{updateReview(w.id,t);setShow(false);setIdx(v=>v+1)};
+return <div className='space-y-4'><h1 className='text-xl font-bold'>单词卡片学习</h1><div className='bg-white border rounded-xl p-6 text-center min-h-60 flex flex-col justify-center'><p className='text-3xl font-bold'>{w.word}</p>{show&&<p className='mt-6 text-lg'>{w.meaningCn}</p>}</div><button className='w-full border rounded p-2' onClick={()=>setShow(true)}>显示答案</button><div className='grid grid-cols-3 gap-2'><button className='bg-green-600 text-white p-2 rounded' onClick={()=>act('know')}>认识</button><button className='bg-amber-500 text-white p-2 rounded' onClick={()=>act('fuzzy')}>模糊</button><button className='bg-rose-600 text-white p-2 rounded' onClick={()=>act('dont')}>不认识</button></div></div>}
