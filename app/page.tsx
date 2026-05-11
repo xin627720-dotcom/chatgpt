@@ -1,9 +1,70 @@
 'use client';
-import { useEffect, useMemo, useState } from 'react';
-import Link from 'next/link';
-import { allWords, getProgress, getSettings } from '@/lib/store';
 
-export default function Home(){const [loaded,setLoaded]=useState(false);const [progress,setProgress]=useState<any>({});const [settings,setSettings]=useState<any>(null);
-useEffect(()=>{setProgress(getProgress());setSettings(getSettings());setLoaded(true)},[]);
-const stats=useMemo(()=>{const vals=Object.values(progress) as any[];const due=vals.filter(v=>v.nextReviewAt&&new Date(v.nextReviewAt)<=new Date()).length;const basic=allWords.filter(w=>w.book==='basic_700');const core=allWords.filter(w=>w.book==='core_2050');const mastered=(ids:string[])=>ids.filter(id=>progress[id]?.status==='mastered').length;return {due,basic:`${mastered(basic.map(v=>v.id))}/${basic.length}`,core:`${mastered(core.map(v=>v.id))}/${core.length}`}},[progress]);
-if(!loaded)return null;return <div className='space-y-4'><h1 className='text-2xl font-bold'>高考英语词汇底座</h1><div className='grid grid-cols-2 gap-3'>{[['今日新词',settings.dailyNewWords],['今日复习',stats.due],['700进度',stats.basic],['2050进度',stats.core]].map(([k,v])=><div className='bg-white p-3 rounded-xl border' key={String(k)}><p className='text-xs text-slate-500'>{k}</p><p className='text-lg font-semibold'>{v}</p></div>)}</div><div className='grid grid-cols-2 gap-3'>{[['开始学习','/learn'],['搜索单词','/vocabulary'],['错词本','/wrong-words'],['开始测验','/quiz']].map(([t,h])=><Link key={String(h)} href={String(h)} className='bg-blue-600 text-white rounded-xl p-3 text-center'>{t}</Link>)}</div></div>}
+import Link from 'next/link';
+import { useEffect, useMemo, useState } from 'react';
+import { checkinToday, dueWords, getMeta, getProgress, getSettings } from '@/lib/store';
+import AnimatedNumber from '@/components/AnimatedNumber';
+import { UserMeta, UserSettings, UserWordProgress } from '@/lib/types';
+
+type Stats = {
+  todayNew: number;
+  due: number;
+  mastered: number;
+  wrong: number;
+  favorite: number;
+  dailyTask: string;
+};
+
+export default function Home() {
+  const [progress, setProgress] = useState<Record<string, UserWordProgress>>({});
+  const [settings, setSettings] = useState<UserSettings | null>(null);
+  const [meta, setMeta] = useState<UserMeta>({ streak: 0, points: 0 });
+
+  useEffect(() => {
+    setProgress(getProgress());
+    setSettings(getSettings());
+    setMeta(getMeta());
+  }, []);
+
+  const stats = useMemo<Stats>(() => {
+    const values = Object.values(progress);
+    const today = new Date().toISOString().slice(0, 10);
+    const dailyTarget = settings?.dailyNewWords ?? 20;
+    return {
+      todayNew: dailyTarget,
+      due: dueWords(progress).length,
+      mastered: values.filter((v) => v.status === 'mastered').length,
+      wrong: values.filter((v) => v.wrongCount > 0).length,
+      favorite: values.filter((v) => v.isFavorite).length,
+      dailyTask: `${values.filter((v) => v.lastReviewedAt?.slice(0, 10) === today).length}/${dailyTarget}`,
+    };
+  }, [progress, settings]);
+
+  return (
+    <div className="space-y-4">
+      <div className="glass-card p-4">
+        <h1 className="text-2xl font-bold">高考英语词汇 App</h1>
+        <p className="text-sm text-slate-600 mt-1">每日积累，科学复习，稳步提分。</p>
+        <button className="btn-primary mt-3" onClick={() => setMeta(checkinToday())}>签到 +10 积分</button>
+      </div>
+
+      <div className="grid grid-cols-2 gap-3">
+        {[
+          ['今日新词', stats.todayNew], ['到期复习', stats.due], ['掌握数', stats.mastered], ['错词数', stats.wrong],
+          ['收藏数', stats.favorite], ['今日任务', stats.dailyTask], ['连续天数', meta.streak], ['积分', meta.points],
+        ].map(([k, v]) => (
+          <div key={String(k)} className="glass-card p-3">
+            <p className="text-xs text-slate-500">{k}</p>
+            <p className="font-semibold text-lg">{typeof v === 'number' ? <AnimatedNumber value={v} /> : v}</p>
+          </div>
+        ))}
+      </div>
+
+      <div className="grid grid-cols-2 gap-2">
+        {[['开始学习', '/learn'], ['词库', '/vocabulary'], ['错词本', '/wrong-words'], ['测验', '/quiz']].map(([t, h]) => (
+          <Link key={String(h)} href={String(h)} className="btn-primary text-center">{t}</Link>
+        ))}
+      </div>
+    </div>
+  );
+}

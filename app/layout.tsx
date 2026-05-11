@@ -28,7 +28,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang='zh-CN'>
       <body>
         <PwaRegister />
-        <main className='max-w-xl mx-auto p-4 pb-20'>{children}</main>
+        <main className='max-w-xl mx-auto p-4 pb-24 page-enter'>{children}</main>
         <BottomNav />
       </body>
     </html>
