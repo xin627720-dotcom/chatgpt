@@ -1,0 +1,5 @@
+'use client';
+import { useMemo, useState } from 'react';
+import { allWords } from '@/lib/store';
+export default function Vocab(){const [book,setBook]=useState<'basic_700'|'core_2050'>('basic_700');const [q,setQ]=useState('');const list=useMemo(()=>allWords.filter(w=>w.book===book&&(`${w.word}${w.meaningCn}`.toLowerCase().includes(q.toLowerCase()))),[book,q]);
+return <div><h1 className='text-xl font-bold mb-3'>词库列表</h1><div className='flex gap-2 mb-3'><button onClick={()=>setBook('basic_700')} className='px-3 py-1 border rounded'>700基础词</button><button onClick={()=>setBook('core_2050')} className='px-3 py-1 border rounded'>2050核心词</button></div><input className='w-full border rounded p-2 mb-3' placeholder='搜索英文或中文' value={q} onChange={e=>setQ(e.target.value)}/><div className='space-y-2'>{list.slice(0,300).map(w=><div key={w.id} className='bg-white border rounded p-2'><div className='font-semibold'>{w.word}</div><div className='text-sm text-slate-600'>{w.meaningCn}</div></div>)}</div></div>}
