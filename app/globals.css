@@ -2,4 +2,60 @@
 @tailwind components;
 @tailwind utilities;
 
-body { @apply bg-slate-50 text-slate-900; }
+:root {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --primary: #2563eb;
+}
+
+body {
+  @apply text-slate-900;
+  background:
+    radial-gradient(1200px 500px at 20% -10%, #dbeafe 0%, rgba(219, 234, 254, 0) 60%),
+    radial-gradient(1000px 450px at 80% -10%, #e0e7ff 0%, rgba(224, 231, 255, 0) 60%),
+    var(--bg);
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/85 backdrop-blur border border-white/60 shadow-sm rounded-2xl;
+  }
+
+  .btn-primary {
+    @apply bg-blue-600 text-white rounded-xl px-3 py-2 transition-all duration-200 active:scale-[0.98] hover:bg-blue-700;
+  }
+
+  .btn-soft {
+    @apply border border-slate-200 bg-white rounded-xl px-3 py-2 transition-all duration-200 active:scale-[0.98] hover:bg-slate-50;
+  }
+
+  .page-enter {
+    animation: pageEnter .35s ease-out;
+  }
+}
+
+@keyframes pageEnter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+:focus-visible {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
